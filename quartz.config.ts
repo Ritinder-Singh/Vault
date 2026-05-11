@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "89.167.47.61",
+    baseUrl: "quartz.ritinder-singh.com",
     ignorePatterns: ["_template*", "private", ".obsidian"],
     defaultDateType: "created",
     theme: {
