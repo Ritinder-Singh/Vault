@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "your-vps-ip-or-domain",
+    baseUrl: "89.167.47.61",
     ignorePatterns: ["_template*", "private", ".obsidian"],
     defaultDateType: "created",
     theme: {
