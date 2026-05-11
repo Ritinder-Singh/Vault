@@ -23,3 +23,6 @@ Beta testers who want a local-only second brain. Contributors interested in the 
 
 ## Notes
 This project is also the backbone for the Vault mind map — the LLM will write markdown files directly into the Obsidian vault, auto-updating the public graph on push.
+
+## Related
+[[canary]] · [[launchpad]]

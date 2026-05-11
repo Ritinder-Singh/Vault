@@ -26,3 +26,6 @@ Frontend dev to own the dashboard UI. Early beta users willing to run it against
 
 ## Notes
 Differentiation is the AI layer — no other uptime tool generates natural-language root cause hypotheses or recognises historical incident patterns automatically.
+
+## Related
+[[launchpad]] · [[secondbrain]]

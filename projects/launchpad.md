@@ -26,3 +26,6 @@ Functional — the tool's own page was deployed using itself. Looking for early 
 
 ## Looking for
 Developers who want a dead-simple way to showcase side projects. Feedback on config UX and template designs.
+
+## Related
+[[canary]] · [[secondbrain]]
