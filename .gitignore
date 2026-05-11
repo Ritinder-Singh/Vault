@@ -1,0 +1,7 @@
+node_modules/
+.quartz-cache/
+public/
+.obsidian/
+private/
+*.DS_Store
+Setup-Vault.md
